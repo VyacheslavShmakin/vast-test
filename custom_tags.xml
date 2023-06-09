@@ -1,0 +1,191 @@
+<VAST version="3.0">
+<Ad id="42454" sequence="1">
+<InLine>
+<AdSystem>
+<![CDATA[ Buzzoola VAST 3.0 ]]>
+</AdSystem>
+<AdTitle>Реклама</AdTitle>
+<Impression id="0">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/ctor/ ]]>
+</Impression>
+<Impression id="1">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/impression/ ]]>
+</Impression>
+<Impression id="2">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/player_seen/ ]]>
+</Impression>
+<Impression id="3">
+<![CDATA[ https://amc.yandex.ru/show?cmn_id=40261&plt_id=127818&crv_id=311500&evt_t=render&ad_type=video&rnd=2666080360340714820 ]]>
+</Impression>
+<Impression id="4">
+<![CDATA[ https://mc.yandex.ru/watch/62444848 ]]>
+</Impression>
+<Impression id="5">
+<![CDATA[ https://top-fwz1.mail.ru/counter?id=3026766 ]]>
+</Impression>
+<Impression id="6">
+<![CDATA[ https://cm.g.doubleclick.net/pixel?google_hm=N2ViMTJjZGItYjQ4My00MjQ3LTU3ODMtODNkMmE3ODViOGM4&google_nid=buzzoola_internet_technologies_limited_liability_company ]]>
+</Impression>
+<Impression id="7">
+<![CDATA[ https://sync.dmp.otm-r.com/match/buzzoola_ssp ]]>
+</Impression>
+<Impression id="8">
+<![CDATA[ https://nr.bidderstack.com/bzla/cm?user_id=7eb12cdb-b483-4247-5783-83d2a785b8c8&r=https%3A//exchange.buzzoola.com/cookiesync/dsp/hyperadx-video%3Fuid%3D ]]>
+</Impression>
+<Impression id="9">
+<![CDATA[ https://x01.aidata.io/0.gif?pid=BUZZOOLA&id=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="10">
+<![CDATA[ https://dmg.digitaltarget.ru/1/7386/i/i?a=992&e=7eb12cdb-b483-4247-5783-83d2a785b8c8&i=4888027582647671325 ]]>
+</Impression>
+<Impression id="11">
+<![CDATA[ https://cr.frontend.weborama.fr/cr?key=mailru&url=https%3A%2F%2Fad.mail.ru%2Fcm.gif%3Fp%3D68%26id%3D%7BWEBO_CID%7D ]]>
+</Impression>
+<Impression id="12">
+<![CDATA[ https://sync.dmp.melvad.com/match/1?ssp_id=3&user_id=7eb12cdb-b483-4247-5783-83d2a785b8c8&rt=https%3A//exchange.buzzoola.com/cookiesync/dsp/melvad-banner%3Fuid%3D%7B%7Boui%7D%7D&gdpr=0 ]]>
+</Impression>
+<Impression id="13">
+<![CDATA[ https://an.yandex.ru/mapuid/adfox/7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="14">
+<![CDATA[ https://cs.alfasense.com/p?ssp=bz&id=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="15">
+<![CDATA[ https://ev.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=608223&bt=21&pid=2551979&bid=6150299&bn=6150299&rnd=1109511771446155416 ]]>
+</Impression>
+<Impression id="16">
+<![CDATA[ https://dm-eu.hybrid.ai/match?id=111&vid=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="17">
+<![CDATA[ https://sync.1dmp.io/pixel.gif?cid=7b15be40-a682-4403-aeec-b2a97ba7ce29&brid=17b44bc9-28e7-4084-90dc-de2fdab5667d&pid=w&uid=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="18">
+<![CDATA[ https://redirect-frontend.weborama-tech.ru/rd?url=https%3A%2F%2Fexchange.buzzoola.com%2Fcookiesync%2Fdmp%2Fweborama%3Fuid%3D{WEBO_CID} ]]>
+</Impression>
+<Impression id="19">
+<![CDATA[ https://match.new-programmatic.com/userbind?src=buz&id=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="20">
+<![CDATA[ https://matching.truffle.bid/sync/pub?sid=63&suid=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="21">
+<![CDATA[ https://a.utraff.com/sync?ssp=buzzoola ]]>
+</Impression>
+<Impression id="22">
+<![CDATA[ https://s.uuidksinc.net/match/865/?remote_uid=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="23">
+<![CDATA[ https://sm.rtb.mts.ru/p?ssp=buzzoola&id=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="24">
+<![CDATA[ https://sync.opendsp.ru/match/buzzoola?id=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="25">
+<![CDATA[ https://ads.betweendigital.com/match?bidder_id=43209&callback_url=https%3A%2F%2Fexchange.buzzoola.com%2Fcookiesync%2Fdsp%2Fbetween-video%3Fuid%3D%24%7BUSER_ID%7D ]]>
+</Impression>
+<Impression id="26">
+<![CDATA[ https://buzzoola-sync.rutarget.ru/sync ]]>
+</Impression>
+<Impression id="27">
+<![CDATA[ https://nr.bidderstack.com/sber/cm?r=https%3A//sync.rambler.ru/set%3Fpartner_id%3D19fd69d6-b747-4191-9749-c7b2b1787d93%26id%3D ]]>
+</Impression>
+<Impression id="28">
+<![CDATA[ https://7eb12cdb-b483-4247-5783-83d2a785b8c8-bzl.ops.beeline.ru/p?ssp=bzl&id=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="29">
+<![CDATA[ https://sync.bumlam.com/?src=buz2&uid=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="30">
+<![CDATA[ https://sync.upravel.com/image?source=buzzoola&id=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="31">
+<![CDATA[ https://redirect.frontend.weborama.fr/rd?url=https%3A%2F%2Fexchange.buzzoola.com%2Fcookiesync%2Fdmp%2Fweborama%3Fuid%3D{WEBO_CID} ]]>
+</Impression>
+<Impression id="32">
+<![CDATA[ https://match.qtarget.tech/userbind?src=buz&id=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="33">
+<![CDATA[ https://exchange.buzzoola.com/cookiesync/redirect?redirect_url=https%3A%2F%2Fads.adlook.me%2Fcsync%3Fpid%3Dbuzz%26uid%3D%24%7BUUID%7D ]]>
+</Impression>
+<Impression id="34">
+<![CDATA[ https://px.adhigh.net/p/cm/buzzoola?u=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="35">
+<![CDATA[ https://sync.republer.com/match?src=buzzoola&id=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Impression id="36">
+<![CDATA[ https://shopnetic.com/api/rtb/dmp/pixel?partner=buzzoola ]]>
+</Impression>
+<Impression id="37">
+<![CDATA[ https://www.acint.net/rmatch?dp=53&euid=7eb12cdb-b483-4247-5783-83d2a785b8c8&r=https%3A%2F%2Fexchange.buzzoola.com%2Fcookiesync%2Fdsp%2Fsape-banner%3Fuid%3D%24%7BUSER_ID%7D ]]>
+</Impression>
+<Impression id="38">
+<![CDATA[ https://sync.gonet-ads.com/match/Buzzoola?id=7eb12cdb-b483-4247-5783-83d2a785b8c8 ]]>
+</Impression>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:15</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/start/ ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/three_sec/ ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/first_quartile/ ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/five_sec/ ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/midpoint/ ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/ten_sec/ ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/third_quartile/ ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/fifteen_sec/ ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/complete/ ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/twenty_sec/ ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="0">
+<![CDATA[ https://exchange.buzzoola.com/event/c4ba0257-044c-45cb-5bec-3409c466d895/b5e9c1ea-a314-4dcd-63d9-034c3a780149/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/click/ ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="500" width="640" height="360" maintainAspectRatio="true">
+<![CDATA[ https://buzzoola.kinescopecdn.net/02c132d4-7709-408a-b0ff-1ad27f4c863f/videos/5554b4aa-a798-4c05-bc81-926a22d90faf/assets/67fe37c2-9799-4af3-8308-50ae6eab03f6/720p.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+<CreativeExtensions/>
+</Creative>
+</Creatives>
+<Description>token981290809asnshf929</Description>
+<Survey/>
+<Error>
+<![CDATA[ https://exchange.buzzoola.com/vast_error/c4ba0257-044c-45cb-5bec-3409c466d895/m7JVQI9Y7J35_gEDugNO2X5modTx3JS1B_OmmcUnHf865wc3y9oIA7WQztrzHoVnPLtwibcUJUA/?code=[ERRORCODE] ]]>
+</Error>
+<Extensions>
+<Extension type="controls">0</Extension>
+<Extension type="yaID">93440266</Extension>
+<Extension type="buzzoola_label">[[EXTENDED_MACRO_VALUE]]</Extension>
+<Extension type="nroa_inform">
+<Title>Реклама</Title>
+<Url>https://exchange.buzzoola.com/advInfo/38363/</Url>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
