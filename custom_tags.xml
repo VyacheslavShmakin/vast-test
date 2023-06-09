@@ -183,6 +183,7 @@
 <Extension type="buzzoola_label">[[EXTENDED_MACRO_VALUE]]</Extension>
 <Extension type="nroa_inform">
 <Title>Реклама</Title>
+<Advertiser>OLOLO Advertiser</Advertiser>
 <Url>https://exchange.buzzoola.com/advInfo/38363/</Url>
 </Extension>
 </Extensions>
