@@ -184,6 +184,7 @@
 <Extension type="nroa_inform">
 <Title>Реклама</Title>
 <Advertiser>OLOLO Advertiser</Advertiser>
+<AdvertiserName>OLOLO AdvertiserNAME</AdvertiserName>
 <Url>https://exchange.buzzoola.com/advInfo/38363/</Url>
 </Extension>
 </Extensions>
