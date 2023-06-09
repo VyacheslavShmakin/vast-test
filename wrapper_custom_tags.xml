@@ -4,6 +4,8 @@
         <Wrapper>
             <AdSystem>Demo Advert</AdSystem>
             <AdTitle>wrapper</AdTitle>
+            <Advertiser>Im advertiser</Advertiser>
+            <AdvertiserName>Im advertiserName</AdvertiserName>
             <Description>video MP4 advert</Description>
             <VASTAdTagURI>https://demo.mediavitrina.ru/allow/advert/vast/video_mp4/red_october/red_october.xml</VASTAdTagURI>
             <Error><![CDATA[https://demo.mediavitrina.ru/allow/tracking/?Error]]></Error>
