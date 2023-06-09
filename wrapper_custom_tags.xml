@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+    <Ad id="002">
+        <Wrapper>
+            <AdSystem>Demo Advert</AdSystem>
+            <AdTitle>wrapper</AdTitle>
+            <Description>video MP4 advert</Description>
+            <VASTAdTagURI>https://demo.mediavitrina.ru/allow/advert/vast/video_mp4/red_october/red_october.xml</VASTAdTagURI>
+            <Error><![CDATA[https://demo.mediavitrina.ru/allow/tracking/?Error]]></Error>
+            <Impression id="Adfox"><![CDATA[https://demo.mediavitrina.ru/allow/tracking/?Impression=Adfox]]></Impression>
+            <Impression id="ThirdParty"><![CDATA[https://banners.adfox.ru/transparent.gif]]></Impression>
+            <Impression id="Mediascope"><![CDATA[https://demo.mediavitrina.ru/allow/tracking/?Impression=Mediascope]]></Impression>
+            <Creatives>
+                <Creative AdID="000001-0000001">
+                    <Linear>
+                        <TrackingEvents>
+                            <Tracking event="creativeView">https://demo.mediavitrina.ru/allow/tracking/?wrapper=creativeView</Tracking>
+                            <Tracking event="start">https://demo.mediavitrina.ru/allow/tracking/?wrapper=start</Tracking>
+                            <Tracking event="midpoint">https://demo.mediavitrina.ru/allow/tracking/?wrapper=midpoint</Tracking>
+                            <Tracking event="firstQuartile">https://demo.mediavitrina.ru/allow/tracking/?wrapper=firstQuartile</Tracking>
+                            <Tracking event="thirdQuartile">https://demo.mediavitrina.ru/allow/tracking/?wrapper=thirdQuartile</Tracking>
+                            <Tracking event="complete">https://demo.mediavitrina.ru/allow/tracking/?wrapper=complete</Tracking>
+                            <Tracking event="close"><![CDATA[https://demo.mediavitrina.ru/allow/tracking/?wrapper=TrackingEvents/close]]></Tracking>
+                            <Tracking event="mute">https://demo.mediavitrina.ru/allow/tracking/?wrapper=mute</Tracking>
+                            <Tracking event="unmute">https://demo.mediavitrina.ru/allow/tracking/?wrapper=unmute</Tracking>
+                            <Tracking event="pause">https://demo.mediavitrina.ru/allow/tracking/?wrapper=pause</Tracking>
+                            <Tracking event="resume">https://demo.mediavitrina.ru/allow/tracking/?wrapper=resume</Tracking>
+                            <Tracking event="fullscreen">https://demo.mediavitrina.ru/allow/tracking/?wrapper=fullscreen</Tracking>
+                        </TrackingEvents>
+                    </Linear>
+                </Creative>
+                <Creative>
+                    <Linear>
+                        <VideoClicks>
+                            <ClickTracking>https://demo.mediavitrina.ru/allow/tracking/?wrapper=click</ClickTracking>
+                        </VideoClicks>
+                    </Linear>
+                </Creative>
+                <Creative AdID="002-NonLinearTracking">
+                    <NonLinearAds>
+                        <TrackingEvents />
+                    </NonLinearAds>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension type="startTime"><![CDATA[00:03]]></Extension>
+                <Extension type="skipTime"><![CDATA[00:02]]></Extension>
+                <Extension type="skipTime2"><![CDATA[00:02]]></Extension>
+                <Extension type="linkTxt"><![CDATA[перейти на сайт рекламодателя]]></Extension>
+                <Extension type="isClickable"><![CDATA[1]]></Extension>
+                <Extension type="skipAd"><![CDATA[https://demo.mediavitrina.ru/allow/tracking/?wrapper=Extension/skipAd]]></Extension>
+                <Extension type="addClick"><![CDATA[https://demo.mediavitrina.ru/allow/tracking/?wrapper=Extension/addClick]]></Extension>
+                <Extension type="closeAct"><![CDATA[no]]></Extension>
+            </Extensions>
+        </Wrapper>
+    </Ad>
+</VAST>
